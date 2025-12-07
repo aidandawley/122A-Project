@@ -3,7 +3,7 @@ import mysql.connector, csv, os
 def get_connection(): 
     mydb = mysql.connector.connect(
     host="localhost",
-    user="test",
+    user="root",
     password="password",
     database="cs122a"
     )
