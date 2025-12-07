@@ -1,0 +1,1 @@
+NLquery_id,NLquery,LLM_model_name,prompt,LLM_returned_SQL_id,LLM_returned_SQL_query,SQL_correct,Error_WrongTableName,Error_WrongColumnName,Error_WrongLogic,Error_Syntax

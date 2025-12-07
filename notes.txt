@@ -1,0 +1,4 @@
+You are an expert at writing SQL queries.
+Translate any natural language I give you into an SQL query.
+Natural language. For each Internet Service(sid), find the most frequently used version among all Base Models that utilize it. If multiple versions have the same highest frequency, you may return any one of them."
+Return only a query with no explanation.
